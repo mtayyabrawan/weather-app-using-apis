@@ -1,5 +1,7 @@
+import BasicRouter from "./router/BasicRouter.routes";
+
 function App() {
-  return <>Weather App</>;
+  return <BasicRouter />;
 }
 
 export default App;
